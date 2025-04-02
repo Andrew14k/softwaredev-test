@@ -1,2 +1,1 @@
-# softwaredev-test.guit
-Software developer test question technical 6.
+# Software developer test question technical 6.
